@@ -1,0 +1,6 @@
+fd: 1784.3604463618703 
+fd_infinity_value: 1714.2851399139254 
+precision: 0.88 
+recall: 1.0 
+density: 0.528 
+coverage: 0.72 
